@@ -7,7 +7,7 @@
  */
 
 /**
- * The `icon` class must be appled to an `<svg>` element.
+ * The `icon` class must be applied to an `<svg>` element.
  * Inside the `<svg>`, insert a `<use>` element whose `xlink:href` attribute
  * points to an icon loaded by `assembly.js`. All icons are referenced
  * by the string `#icon-{name}`. By default, icons inherit size from their calculated text size.
